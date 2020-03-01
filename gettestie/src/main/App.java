@@ -1,5 +1,3 @@
-package rocks.zipcode;
-
 /**
  * Hello world!
  */
